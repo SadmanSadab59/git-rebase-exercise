@@ -1,7 +1,7 @@
-print("Hello world!")
-print("Not another hello world")
-print("Well")
-print("More")
-print("Hello")
-print("World")
-print("Please, I'm begging you.")
+Hello world!
+Not another hello world
+Well
+More
+Hello
+World
+Please, I'm begging you.
